@@ -12,15 +12,15 @@
   --selected-tab: var(--editor-background);
 
   /* syntax */
-  --type-declaration: rgb(78, 201, 176);
+  --type-declaration: rgb(255, 204, 102);
   --language-constant: rgb(86, 156, 214);
-  --numeric-constant: rgb(181, 206, 168);
-  --string: rgb(206, 145, 120);
-  --regex: rgb(209, 105, 105);
-  --keyword: rgb(197, 134, 192);
-  --function-declaration: rgb(220, 220, 170);
-  --variable: rgb(156, 220, 254);
-  --comment: rgb(106, 153, 85);
+  --numeric-constant: rgb(249, 145, 87);
+  --string: rgb(153, 204, 153);
+  --regex: rgb(102, 204, 204);
+  --keyword: rgb(204, 153, 204);
+  --function-declaration: rgb(102, 153, 204);
+  --variable: rgb(242, 119, 122);
+  --comment: rgb(116, 115, 105);
 
   /* markdown */
   --heading: var(--language-constant);
